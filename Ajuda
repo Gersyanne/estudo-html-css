@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajuda</title>
+</head>
+<body>
+    <h1>Ajuda</h1>
+    <ol>
+        <li><a href="#servicos">Quais os nossos serviços?</a></li>
+        <li><a href="#solicitar">Como solicitar os serviços?</a></li>
+        <li><a href="#orcamento">Sobre o orçamento</a></li>
+        <li><a href="#prazos">Prazos</a></li>
+    </ol>
+    <div>
+        <h2 id="servicos">Quais os nossos serviços?</h2>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+        when an unknown printer took a galley of type and scrambled it to make a type 
+        specimen book.
+    </div>
+    <div>
+        <h2 id="solicitar">Como solicitar os serviços?</h2>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+        when an unknown printer took a galley of type and scrambled it to make a type 
+        specimen book.
+    </div>
+    <div>
+        <h2 id="orcamento">Sobre o orçamento</h2>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+        when an unknown printer took a galley of type and scrambled it to make a type 
+        specimen book.</p>
+    </div>
+    <div>
+        <h2 id="prazos">Prazos</h2>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+        when an unknown printer took a galley of type and scrambled it to make a type 
+        specimen book.</p>
+    </div>
+</body>
+</html>
